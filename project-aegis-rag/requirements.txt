@@ -1,0 +1,38 @@
+# ========================================
+# Project Aegis RAG - Requirements
+# Using LangChain OpenAI Module
+# ========================================
+
+# === LangChain Core & Integrations ===
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-openai>=0.2.0          # ← Official LangChain OpenAI integration (replaces raw openai)
+
+# === Configuration & Utilities ===
+python-dotenv>=1.0.0
+pydantic>=2.8.0
+pyyaml>=6.0.0
+tiktoken>=0.7.0                  # Required by OpenAI models for token counting
+
+# === Vector Database ===
+pinecone-client>=5.0.0
+
+# === UI ===
+streamlit>=1.38.0
+
+# === Reranking ===
+sentence-transformers>=3.0.0
+FlagEmbedding>=1.2.0             # For bge-reranker
+
+# === Data Handling ===
+pandas>=2.2.0
+numpy>=1.26.0
+
+
+
+# ========================================
+# Optional (Uncomment if needed later)
+# ========================================
+# langchain-pinecone>=0.2.0          # Official LangChain Pinecone integration
+# unstructured[all-docs]             # For future PDF support
