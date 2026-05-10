@@ -2186,7 +2186,7 @@
   },
   {
     "chunk_id": "chunk_0309",
-    "chunk_text": "8. Repayment and Retention (The \"Clawback\" Clause)\n\n## 8. Repayment and Retention (The \"Clawback\" Clause)\nThe Tuition Assistance Program is an investment in the organization's future workforce. Consequently, employees who utilize this benefit are subject to a retention agreement.\n\nIf an employee's employment is terminated (either voluntarily by resignation, or involuntarily for cause) after receiving tuition reimbursement, the employee must repay the organization according to the following schedule:\n* **0 to 12 Months:** If the departure occurs within 12 months of the *payout date* of the reimbursement, the employee must repay **100%** of the reimbursed funds.\n* **12 to 24 Months:** If the departure occurs between 12 and 24 months of the payout date, the employee must repay **50%** of the reimbursed funds.\n* **After 24 Months:** If the departure occurs more than 24 months after the payout date, the debt is fully forgiven, and **0%** repayment is required.\n\n*Deduction Authorization:* By participating in the TAP, the employee explicitly authorizes the organization to deduct any owed tuition repayments from their final paycheck, severance payout, or accrued PTO payout (subject to local state labor laws).",
+    "chunk_text": "8. Repayment and Retention (The \"Clawback\" Clause)\n\n## 8. Repayment and Retention (The \"Clawback\" Clause)\nThe Tuition Assistance Program is an investment in the organization's future workforce. Consequently, employees who utilize this benefit are subject to a retention agreement.\n\nIf an employee's employment is terminated (either voluntarily by resignation, or involuntarily for cause) after receiving tuition reimbursement, the employee must repay the organization according to the following schedule:\n* **0 to 12 Months:** If the departure occurs within 12 months of the *payout date* of the reimbursement, the employee must repay **100%** of the reimbursed funds.\n* **12 to 24 Months:** If the departure occurs between 12 and 24 months of the payout date, the employee must repay **50%** of the reimbursed funds.\n* **After 24 Months:** If the departure occurs more than 24 months after the payout date, the debt is fully forgiven, and **0%** repayment is required.",
     "metadata": {
       "chunk_id": "chunk_0309",
       "h1_header": "Corporate Policy: Global Learning, Development, and Tuition Assistance",
@@ -2205,9 +2205,28 @@
   },
   {
     "chunk_id": "chunk_0310",
-    "chunk_text": "9. Cross-References and Taxation\n\n## 9. Cross-References and Taxation\n* Educational benefits may be subject to varying tax treatments depending on the employee's global jurisdiction. It is the employee's responsibility to consult with a personal tax advisor. \n* Employees studying during standard business hours must utilize standard PTO or negotiate a flexible working arrangement as outlined in the *HR Leave and Absence Policy (HR-POL-4001-V6)*. Time spent attending classes or completing coursework is not considered compensable working time.",
+    "chunk_text": "8. Repayment and Retention (The \"Clawback\" Clause)\n\n*Deduction Authorization:* By participating in the TAP, the employee explicitly authorizes the organization to deduct any owed tuition repayments from their final paycheck, severance payout, or accrued PTO payout (subject to local state labor laws).",
     "metadata": {
       "chunk_id": "chunk_0310",
+      "h1_header": "Corporate Policy: Global Learning, Development, and Tuition Assistance",
+      "h2_header": "8. Repayment and Retention (The \"Clawback\" Clause)",
+      "section_header": "8. Repayment and Retention (The \"Clawback\" Clause)",
+      "chunk_index": 1,
+      "source_type": "policy_document",
+      "document_id": "LEARNING_AND_TUITION",
+      "policy_category": "Training",
+      "source_file": "training/learning and tuition.txt",
+      "source_folder": "training",
+      "policy_owner": "Unknown"
+    },
+    "document_id": "LEARNING_AND_TUITION",
+    "policy_category": "Training"
+  },
+  {
+    "chunk_id": "chunk_0311",
+    "chunk_text": "9. Cross-References and Taxation\n\n## 9. Cross-References and Taxation\n* Educational benefits may be subject to varying tax treatments depending on the employee's global jurisdiction. It is the employee's responsibility to consult with a personal tax advisor. \n* Employees studying during standard business hours must utilize standard PTO or negotiate a flexible working arrangement as outlined in the *HR Leave and Absence Policy (HR-POL-4001-V6)*. Time spent attending classes or completing coursework is not considered compensable working time.",
+    "metadata": {
+      "chunk_id": "chunk_0311",
       "h1_header": "Corporate Policy: Global Learning, Development, and Tuition Assistance",
       "h2_header": "9. Cross-References and Taxation",
       "section_header": "9. Cross-References and Taxation",
@@ -2223,10 +2242,10 @@
     "policy_category": "Training"
   },
   {
-    "chunk_id": "chunk_0351",
+    "chunk_id": "chunk_0354",
     "chunk_text": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement\n\n# Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement\n**Document ID:** TRV-POL-3012-V2\n**Effective Date:** April 1, 2026\n**Last Revised:** January 20, 2026\n**Policy Owner:** Corporate Fleet Management & Global Finance\n**Applies To:** All employees authorized to operate personal, rental, or company-owned vehicles for official business purposes.\n\n---",
     "metadata": {
-      "chunk_id": "chunk_0351",
+      "chunk_id": "chunk_0354",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "",
       "section_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
@@ -2242,10 +2261,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0352",
+    "chunk_id": "chunk_0355",
     "chunk_text": "Table of Contents\n\n## Table of Contents\n1. Purpose and Guiding Principles\n2. Definitions and Scope\n3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program\n4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance\n5. Fuel Reimbursement for Rental and Company-Owned Vehicles\n6. Electric Vehicle (EV) and Hybrid Fleet Guidelines\n7. Chauffeur and Professional Driver Allowances\n8. The \"Normal Commute\" Deduction Rule\n9. Tolls, Parking, and Ancillary Transit Costs\n10. Documentation, Telematics, and Odometer Verification\n11. Insurance, Liability, and Risk Mitigation\n12. Policy Violations and Audit Triggers\n\n---",
     "metadata": {
-      "chunk_id": "chunk_0352",
+      "chunk_id": "chunk_0355",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "Table of Contents",
       "section_header": "Table of Contents",
@@ -2261,10 +2280,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0353",
+    "chunk_id": "chunk_0356",
     "chunk_text": "1. Purpose and Guiding Principles\n\n## 1. Purpose and Guiding Principles\nThe Personal Vehicle, Fuel, and Mileage Reimbursement Policy provides a structured, compliant framework for compensating employees who utilize vehicular transport for corporate business. The organization aims to reimburse employees accurately for the business use of vehicles without creating a taxable fringe benefit under applicable national tax codes (e.g., the IRS accountable plan rules in the US, or equivalent local tax authority guidelines). \n\nThis policy explicitly distinguishes between the reimbursement mechanisms for Personal Vehicles (which operate on a Cents-Per-Mile or FAVR basis) and Corporate/Rental Vehicles (which operate on a direct fuel expense basis). Conflating these two reimbursement types constitutes a severe audit violation.",
     "metadata": {
-      "chunk_id": "chunk_0353",
+      "chunk_id": "chunk_0356",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "1. Purpose and Guiding Principles",
       "section_header": "1. Purpose and Guiding Principles",
@@ -2280,10 +2299,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0354",
+    "chunk_id": "chunk_0357",
     "chunk_text": "2. Definitions and Scope\n\n## 2. Definitions and Scope\nUnderstanding the categorization of the vehicle is mandatory prior to submitting an expense claim.\n\n* **Internal Combustion Engine (ICE):** Standard vehicles operating on petrol, diesel, or compressed natural gas (CNG).\n* **Electric Vehicle (EV):** Vehicles operating entirely on battery power, requiring charging infrastructure.\n* **Personal Vehicle:** A vehicle owned or personally leased by the employee.\n* **Company-Owned Fleet Vehicle:** A vehicle registered to the organization, permanently assigned to a high-mileage employee (e.g., Regional Sales Directors).\n* **Rental Vehicle:** A vehicle temporarily leased from an approved vendor (e.g., Enterprise) for a specific business trip.\n* **Telematics:** GPS and mileage tracking software utilized to verify driven routes.",
     "metadata": {
-      "chunk_id": "chunk_0354",
+      "chunk_id": "chunk_0357",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "2. Definitions and Scope",
       "section_header": "2. Definitions and Scope",
@@ -2299,10 +2318,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0355",
+    "chunk_id": "chunk_0358",
     "chunk_text": "3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program\n\n## 3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program\nEmployees utilizing their personal vehicles for occasional business travel (defined as driving fewer than 5,000 business miles annually) are governed by the Standard Mileage Rate (SMR) program.",
     "metadata": {
-      "chunk_id": "chunk_0355",
+      "chunk_id": "chunk_0358",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program",
       "section_header": "3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program",
@@ -2318,10 +2337,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0356",
+    "chunk_id": "chunk_0359",
     "chunk_text": "3.1 The Mileage Rate\n\n### 3.1 The Mileage Rate\nThe organization reimburses personal vehicle usage based on the standardized rates published annually by the national tax authority. \n* **Current Rate (Effective Jan 1, 2026):** $0.69 USD per business mile.\n* **What the Rate Covers:** The SMR is a comprehensive allowance. It is legally designed to cover the cost of petrol/diesel, routine maintenance, oil changes, tire wear, depreciation, and personal auto insurance.",
     "metadata": {
-      "chunk_id": "chunk_0356",
+      "chunk_id": "chunk_0359",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program",
       "section_header": "3.1 The Mileage Rate",
@@ -2337,10 +2356,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0357",
+    "chunk_id": "chunk_0360",
     "chunk_text": "3.2 Prohibited Dual-Reimbursement\n\n### 3.2 Prohibited Dual-Reimbursement\nBecause the SMR explicitly includes the cost of fuel, **employees claiming mileage reimbursement are strictly prohibited from expensing direct fuel/petrol receipts.** Submitting a mileage claim alongside a gas station receipt for the same trip is considered financial \"double-dipping\" and will trigger an immediate fraud audit.",
     "metadata": {
-      "chunk_id": "chunk_0357",
+      "chunk_id": "chunk_0360",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program",
       "section_header": "3.2 Prohibited Dual-Reimbursement",
@@ -2356,10 +2375,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0358",
+    "chunk_id": "chunk_0361",
     "chunk_text": "4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance\n\n## 4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance\nEmployees designated as \"High-Mileage Drivers\" (defined as driving more than 5,000 business miles annually, typically field sales and territory managers) must transition from the SMR program to the FAVR Allowance program.",
     "metadata": {
-      "chunk_id": "chunk_0358",
+      "chunk_id": "chunk_0361",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance",
       "section_header": "4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance",
@@ -2375,10 +2394,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0359",
+    "chunk_id": "chunk_0362",
     "chunk_text": "4.1 FAVR Structure\n\n### 4.1 FAVR Structure\nFAVR separates vehicle costs into two distinct reimbursement streams to ensure geographical equity:\n1.  **Fixed Allowance:** A flat monthly stipend (e.g., $450/month) paid via payroll to cover depreciation, insurance, and registration fees. This rate is adjusted based on the employee's localized zip code.\n2.  **Variable Fuel Rate:** A fluctuating cents-per-mile rate (e.g., $0.18/mile) that adjusts monthly based on the localized average cost of petrol/diesel in the employee’s territory.",
     "metadata": {
-      "chunk_id": "chunk_0359",
+      "chunk_id": "chunk_0362",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance",
       "section_header": "4.1 FAVR Structure",
@@ -2394,10 +2413,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0360",
+    "chunk_id": "chunk_0363",
     "chunk_text": "4.2 Vehicle Compliance for FAVR\n\n### 4.2 Vehicle Compliance for FAVR\nTo qualify for the tax-free FAVR program, the employee's personal vehicle must meet strict compliance parameters:\n* The vehicle cannot be older than seven (7) model years.\n* The vehicle's original Manufacturer's Suggested Retail Price (MSRP) must exceed $25,000 but cannot exceed $60,000 (Luxury vehicles exceeding this cap do not receive higher allowances).\n* The employee must maintain comprehensive insurance coverage with limits of at least 100/300/50.",
     "metadata": {
-      "chunk_id": "chunk_0360",
+      "chunk_id": "chunk_0363",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance",
       "section_header": "4.2 Vehicle Compliance for FAVR",
@@ -2413,10 +2432,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0361",
+    "chunk_id": "chunk_0364",
     "chunk_text": "5. Fuel Reimbursement for Rental and Company-Owned Vehicles\n\n## 5. Fuel Reimbursement for Rental and Company-Owned Vehicles\nUnlike personal vehicles, where fuel is baked into the mileage rate, employees operating rental cars or company-owned fleet vehicles must expense the actual cost of fuel.",
     "metadata": {
-      "chunk_id": "chunk_0361",
+      "chunk_id": "chunk_0364",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "5. Fuel Reimbursement for Rental and Company-Owned Vehicles",
       "section_header": "5. Fuel Reimbursement for Rental and Company-Owned Vehicles",
@@ -2432,10 +2451,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0362",
+    "chunk_id": "chunk_0365",
     "chunk_text": "5.1 Refueling Rental Cars\n\n### 5.1 Refueling Rental Cars\nEmployees must refuel rental vehicles to the required level (usually \"Full\") prior to returning the vehicle to the rental agency.\n* Employees must use the corporate credit card to purchase petrol/diesel at standard gas stations.\n* **Prepaid Fuel Prohibition:** Purchasing the \"Prepaid Fuel Option\" from the rental agency desk is strictly prohibited, as it incurs a premium markup.\n* **Refueling Penalties:** If an employee fails to refuel the car and the rental agency applies a refueling penalty rate (often $9.00+ per gallon), the difference between the local market rate and the penalty rate will be deducted from the employee's reimbursement.",
     "metadata": {
-      "chunk_id": "chunk_0362",
+      "chunk_id": "chunk_0365",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "5. Fuel Reimbursement for Rental and Company-Owned Vehicles",
       "section_header": "5.1 Refueling Rental Cars",
@@ -2451,10 +2470,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0363",
+    "chunk_id": "chunk_0366",
     "chunk_text": "5.2 Corporate Fleet Fuel Cards (WEX/FleetCor)\n\n### 5.2 Corporate Fleet Fuel Cards (WEX/FleetCor)\nEmployees assigned a permanent company-owned vehicle are issued a dedicated Corporate Fuel Card.\n* This card is restricted via Point-of-Sale (POS) to only allow purchases of petrol, diesel, and basic car washes.\n* The card requires the employee to input the vehicle's current odometer reading at the pump before the transaction is authorized.\n* The use of a Corporate Fuel Card for personal vehicles or unauthorized rental cars is considered theft of company property.",
     "metadata": {
-      "chunk_id": "chunk_0363",
+      "chunk_id": "chunk_0366",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "5. Fuel Reimbursement for Rental and Company-Owned Vehicles",
       "section_header": "5.2 Corporate Fleet Fuel Cards (WEX/FleetCor)",
@@ -2470,10 +2489,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0364",
+    "chunk_id": "chunk_0367",
     "chunk_text": "6. Electric Vehicle (EV) and Hybrid Fleet Guidelines\n\n## 6. Electric Vehicle (EV) and Hybrid Fleet Guidelines\nThe transition to sustainable transit requires specific guidelines for EV charging, which differs significantly from traditional petrol/diesel expensing.",
     "metadata": {
-      "chunk_id": "chunk_0364",
+      "chunk_id": "chunk_0367",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "6. Electric Vehicle (EV) and Hybrid Fleet Guidelines",
       "section_header": "6. Electric Vehicle (EV) and Hybrid Fleet Guidelines",
@@ -2489,10 +2508,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0365",
+    "chunk_id": "chunk_0368",
     "chunk_text": "6.1 EV Rental Vehicles\n\n### 6.1 EV Rental Vehicles\nWhen renting an EV through an approved corporate vendor:\n* **Public Charging Stations:** Employees may expense the cost of utilizing public fast-charging networks (e.g., Tesla Superchargers, Electrify America) using their corporate credit card. \n* **Return Charge Level:** EVs must be returned to the rental agency with a minimum battery charge of 70% to avoid vendor penalty fees.",
     "metadata": {
-      "chunk_id": "chunk_0365",
+      "chunk_id": "chunk_0368",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "6. Electric Vehicle (EV) and Hybrid Fleet Guidelines",
       "section_header": "6.1 EV Rental Vehicles",
@@ -2508,10 +2527,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0366",
+    "chunk_id": "chunk_0369",
     "chunk_text": "6.2 Personal EVs (Mileage Program)\n\n### 6.2 Personal EVs (Mileage Program)\nEmployees utilizing personal EVs for business travel remain subject to the standard SMR program ($0.69/mile). The government standard rate applies equally to ICE and EV vehicles. Employees cannot expense home-electricity costs or public charging station receipts if they are claiming the standard mileage rate.",
     "metadata": {
-      "chunk_id": "chunk_0366",
+      "chunk_id": "chunk_0369",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "6. Electric Vehicle (EV) and Hybrid Fleet Guidelines",
       "section_header": "6.2 Personal EVs (Mileage Program)",
@@ -2527,10 +2546,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0367",
+    "chunk_id": "chunk_0370",
     "chunk_text": "7. Chauffeur and Professional Driver Allowances\n\n## 7. Chauffeur and Professional Driver Allowances\nIn specific international regions (e.g., India, Southeast Asia) or for C-Suite executives, the use of a professional driver operating a personal or company vehicle is standard business practice.",
     "metadata": {
-      "chunk_id": "chunk_0367",
+      "chunk_id": "chunk_0370",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "7. Chauffeur and Professional Driver Allowances",
       "section_header": "7. Chauffeur and Professional Driver Allowances",
@@ -2546,10 +2565,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0368",
+    "chunk_id": "chunk_0371",
     "chunk_text": "7.1 Outstation Driver Batta (Allowances)\n\n### 7.1 Outstation Driver Batta (Allowances)\nIf business travel requires an employee’s professional driver to travel outstation (beyond the city limits) and necessitates an overnight stay, the organization will reimburse a \"Driver Batta\" (daily allowance) to cover the driver's food and basic lodging.\n* **Standard Driver Allowance:** Reimbursable up to $30.00 USD (or local equivalent) per overnight stay. \n* This allowance must be expensed under the \"Ground Transit - Ancillary\" code, completely separate from fuel or mileage claims.",
     "metadata": {
-      "chunk_id": "chunk_0368",
+      "chunk_id": "chunk_0371",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "7. Chauffeur and Professional Driver Allowances",
       "section_header": "7.1 Outstation Driver Batta (Allowances)",
@@ -2565,10 +2584,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0369",
+    "chunk_id": "chunk_0372",
     "chunk_text": "8. The \"Normal Commute\" Deduction Rule\n\n## 8. The \"Normal Commute\" Deduction Rule\nThe most frequently violated rule in the travel policy is the failure to deduct normal commuting mileage. National tax laws strictly define commuting between an employee's residence and their primary office as a personal, non-reimbursable expense.",
     "metadata": {
-      "chunk_id": "chunk_0369",
+      "chunk_id": "chunk_0372",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "8. The \"Normal Commute\" Deduction Rule",
       "section_header": "8. The \"Normal Commute\" Deduction Rule",
@@ -2584,10 +2603,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0370",
+    "chunk_id": "chunk_0373",
     "chunk_text": "8.1 Calculating Deductible Mileage\n\n### 8.1 Calculating Deductible Mileage\nWhen an employee travels directly from their home to a temporary work location (e.g., a client site), they may only expense the mileage that *exceeds* their normal daily commute.\n\n**Formula:** `(Total Miles Driven from Home to Client) - (Normal Commute Miles to Office) = Reimbursable Miles`\n\n* **Example Scenario:** An employee lives 15 miles from the corporate office (30 miles round trip commute). The employee drives directly from home to a client site that is 40 miles away, and then returns home (80 miles total).\n* **Calculation:** 80 total miles driven - 30 normal commute miles = **50 Reimbursable Business Miles.**",
     "metadata": {
-      "chunk_id": "chunk_0370",
+      "chunk_id": "chunk_0373",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "8. The \"Normal Commute\" Deduction Rule",
       "section_header": "8.1 Calculating Deductible Mileage",
@@ -2603,10 +2622,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0371",
+    "chunk_id": "chunk_0374",
     "chunk_text": "8.2 Weekend and Non-Working Day Travel\n\n### 8.2 Weekend and Non-Working Day Travel\nIf an employee is required to drive to a client site or the airport on a weekend, holiday, or standard non-working day, the normal commute deduction does not apply. The entire mileage from the residence is fully reimbursable.",
     "metadata": {
-      "chunk_id": "chunk_0371",
+      "chunk_id": "chunk_0374",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "8. The \"Normal Commute\" Deduction Rule",
       "section_header": "8.2 Weekend and Non-Working Day Travel",
@@ -2622,10 +2641,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0372",
+    "chunk_id": "chunk_0375",
     "chunk_text": "9. Tolls, Parking, and Ancillary Transit Costs\n\n## 9. Tolls, Parking, and Ancillary Transit Costs\nTolls and parking fees are separate from mileage and fuel policies and are fully reimbursable when incurred during legitimate business travel.\n\n* **Toll Transponders:** The organization will reimburse electronic toll lane charges (e.g., E-ZPass, FasTrak). However, monthly account maintenance fees for personal transponders are non-reimbursable.\n* **Valet Parking:** Valet parking is reimbursable only if self-parking is unavailable, poses a verified safety risk, or if the traveler is transporting heavy, company-owned equipment.\n* **Fines:** Parking tickets, speeding infractions, toll-evasion penalties, and towing fees are categorically non-reimbursable, regardless of the business urgency.",
     "metadata": {
-      "chunk_id": "chunk_0372",
+      "chunk_id": "chunk_0375",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "9. Tolls, Parking, and Ancillary Transit Costs",
       "section_header": "9. Tolls, Parking, and Ancillary Transit Costs",
@@ -2641,10 +2660,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0373",
+    "chunk_id": "chunk_0376",
     "chunk_text": "10. Documentation, Telematics, and Odometer Verification\n\n## 10. Documentation, Telematics, and Odometer Verification\nExpense reports lacking robust documentation will be automatically rejected by the automated AP processing system.",
     "metadata": {
-      "chunk_id": "chunk_0373",
+      "chunk_id": "chunk_0376",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "10. Documentation, Telematics, and Odometer Verification",
       "section_header": "10. Documentation, Telematics, and Odometer Verification",
@@ -2660,10 +2679,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0374",
+    "chunk_id": "chunk_0377",
     "chunk_text": "10.1 Acceptable Mileage Logs\n\n### 10.1 Acceptable Mileage Logs\nEmployees must submit a detailed mileage log for every trip. The log must include:\n1. Date of travel.\n2. Starting address and Destination address.\n3. Specific business purpose (e.g., \"On-site server maintenance at Client X\").\n4. Total miles driven (minus commute).",
     "metadata": {
-      "chunk_id": "chunk_0374",
+      "chunk_id": "chunk_0377",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "10. Documentation, Telematics, and Odometer Verification",
       "section_header": "10.1 Acceptable Mileage Logs",
@@ -2679,10 +2698,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0375",
+    "chunk_id": "chunk_0378",
     "chunk_text": "10.2 GPS Integration\n\n### 10.2 GPS Integration\nTo streamline reporting, employees are strongly encouraged to use the GPS-integration feature within the corporate expense app (e.g., Workday Mileage Tracker or Concur Drive). These applications use the mobile device's location services to automatically plot the route, calculate exact mileage, and automatically deduct the pre-programmed home-to-office commute distance. Manual odometer readings are subject to higher audit scrutiny.",
     "metadata": {
-      "chunk_id": "chunk_0375",
+      "chunk_id": "chunk_0378",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "10. Documentation, Telematics, and Odometer Verification",
       "section_header": "10.2 GPS Integration",
@@ -2698,10 +2717,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0376",
+    "chunk_id": "chunk_0379",
     "chunk_text": "11. Insurance, Liability, and Risk Mitigation\n\n## 11. Insurance, Liability, and Risk Mitigation\nWhen an employee operates a personal vehicle for business purposes, the employee's personal auto insurance policy serves as the **primary** coverage in the event of an accident.\n\n* The organization maintains a Non-Owned Auto Liability policy, but this serves only as **secondary** coverage. It protects the company from third-party lawsuits; it does not cover physical damage to the employee's personal vehicle.\n* Employees are explicitly barred from utilizing motorcycles, mopeds, or recreational vehicles (RVs) for corporate business travel.",
     "metadata": {
-      "chunk_id": "chunk_0376",
+      "chunk_id": "chunk_0379",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "11. Insurance, Liability, and Risk Mitigation",
       "section_header": "11. Insurance, Liability, and Risk Mitigation",
@@ -2717,10 +2736,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0377",
+    "chunk_id": "chunk_0380",
     "chunk_text": "12. Policy Violations and Audit Triggers\n\n## 12. Policy Violations and Audit Triggers\nThe Finance auditing software monitors for specific patterns indicative of expense fraud. Reports will trigger an immediate manual audit if they contain:\n* Round-number mileage claims (e.g., exactly 100 miles claimed on three consecutive trips).\n* Fuel receipts submitted concurrently with SMR mileage claims.\n* Consistent failure to deduct commute mileage.\n* Fuel claims for rental cars where the gallons purchased vastly exceed the fuel tank capacity of the rented vehicle class.",
     "metadata": {
-      "chunk_id": "chunk_0377",
+      "chunk_id": "chunk_0380",
       "h1_header": "Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement",
       "h2_header": "12. Policy Violations and Audit Triggers",
       "section_header": "12. Policy Violations and Audit Triggers",
@@ -2736,10 +2755,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0432",
+    "chunk_id": "chunk_0435",
     "chunk_text": "Corporate Travel Policy: International Operations and Global Mobility\n\n# Corporate Travel Policy: International Operations and Global Mobility\n**Document ID:** TRV-POL-2005-V3\n**Effective Date:** February 1, 2026\n**Last Revised:** December 10, 2025\n**Policy Owner:** Global Corporate Travel, Risk Management, and Global Mobility (GCT-RM)\n**Applies To:** All employees, executives, and authorized contractors undertaking cross-border travel for company business.\n\n---",
     "metadata": {
-      "chunk_id": "chunk_0432",
+      "chunk_id": "chunk_0435",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "",
       "section_header": "Corporate Travel Policy: International Operations and Global Mobility",
@@ -2755,10 +2774,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0433",
+    "chunk_id": "chunk_0436",
     "chunk_text": "Table of Contents\n\n## Table of Contents\n1. Introduction, Scope, and Global Duty of Care\n2. Passports, Visas, and Immigration Compliance\n3. International Pre-Travel Authorization and Risk Assessment\n4. International Air Travel and Class of Service\n5. Global Ground Transportation\n6. International Lodging and Security Standards\n7. Currency Conversion, Foreign Transaction Fees, and Per Diems\n8. Health, Vaccinations, and Medical Evacuation\n9. Data Security and Cross-Border Technology Protocols\n10. Corporate Tax, Legal Risk, and \"Permanent Establishment\"\n11. Repatriation and Emergency Extraction\n12. Exceptions and Executive Waivers\n\n---",
     "metadata": {
-      "chunk_id": "chunk_0433",
+      "chunk_id": "chunk_0436",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "Table of Contents",
       "section_header": "Table of Contents",
@@ -2774,10 +2793,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0434",
+    "chunk_id": "chunk_0437",
     "chunk_text": "1. Introduction, Scope, and Global Duty of Care\n\n## 1. Introduction, Scope, and Global Duty of Care\nThe International Operations and Global Mobility Travel Policy outlines the regulations, safety protocols, and financial guidelines for personnel traveling outside their designated home country for business purposes. International travel introduces complex variables, including geopolitical instability, fluctuating currency exchange rates, immigration laws, and severe data security risks.\n\nThis document serves as a mandatory addendum to the *Standard and Client-Facing Operations Travel Policy (TRV-POL-1001-V4)*. Where guidelines in this document conflict with the standard policy, the guidelines within this international policy shall strictly supersede. The organization maintains a comprehensive Global Duty of Care program to ensure the physical safety, legal compliance, and medical security of our international workforce.",
     "metadata": {
-      "chunk_id": "chunk_0434",
+      "chunk_id": "chunk_0437",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "1. Introduction, Scope, and Global Duty of Care",
       "section_header": "1. Introduction, Scope, and Global Duty of Care",
@@ -2793,10 +2812,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0435",
+    "chunk_id": "chunk_0438",
     "chunk_text": "2. Passports, Visas, and Immigration Compliance\n\n## 2. Passports, Visas, and Immigration Compliance\nEmployees must possess legally valid travel documents to enter foreign jurisdictions. Strict adherence to international immigration law is non-negotiable.",
     "metadata": {
-      "chunk_id": "chunk_0435",
+      "chunk_id": "chunk_0438",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "2. Passports, Visas, and Immigration Compliance",
       "section_header": "2. Passports, Visas, and Immigration Compliance",
@@ -2812,10 +2831,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0436",
+    "chunk_id": "chunk_0439",
     "chunk_text": "2.1 Passports\n\n### 2.1 Passports\nEmployees must hold a passport valid for at least six (6) months beyond the intended date of return to their home country. \n* **Reimbursement:** The organization will reimburse the cost of passport renewals (including expedited processing fees) only if the employee is required to travel internationally within 30 days and their current passport is expired or lacks sufficient blank pages. Initial passport procurement for new hires is considered a personal expense and is non-reimbursable.",
     "metadata": {
-      "chunk_id": "chunk_0436",
+      "chunk_id": "chunk_0439",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "2. Passports, Visas, and Immigration Compliance",
       "section_header": "2.1 Passports",
@@ -2831,10 +2850,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0437",
+    "chunk_id": "chunk_0440",
     "chunk_text": "2.2 Visas and Work Authorizations\n\n### 2.2 Visas and Work Authorizations\nEmployees are strictly prohibited from conducting official company business on a \"Tourist Visa\" unless explicitly cleared by the Global Mobility Legal Team. Traveling under false pretenses constitutes a Level 1 Policy Violation and grounds for immediate termination.\n* **Procurement:** All business visas, work permits, and invitation letters must be processed through the organization’s designated immigration vendor (Fragomen or equivalent).\n* **Reimbursement:** All costs associated with acquiring business visas (including consular fees, vendor processing fees, and mandatory passport photos) are 100% reimbursable.",
     "metadata": {
-      "chunk_id": "chunk_0437",
+      "chunk_id": "chunk_0440",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "2. Passports, Visas, and Immigration Compliance",
       "section_header": "2.2 Visas and Work Authorizations",
@@ -2850,10 +2869,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0438",
+    "chunk_id": "chunk_0441",
     "chunk_text": "3. International Pre-Travel Authorization and Risk Assessment\n\n## 3. International Pre-Travel Authorization and Risk Assessment\nInternational travel requires a more stringent approval hierarchy due to increased financial costs and geopolitical risks.",
     "metadata": {
-      "chunk_id": "chunk_0438",
+      "chunk_id": "chunk_0441",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "3. International Pre-Travel Authorization and Risk Assessment",
       "section_header": "3. International Pre-Travel Authorization and Risk Assessment",
@@ -2869,10 +2888,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0439",
+    "chunk_id": "chunk_0442",
     "chunk_text": "3.1 International Approval Matrix\n\n### 3.1 International Approval Matrix\nAll international travel, regardless of the estimated cost, requires dual-level approval.\n| Travel Category | Destination Risk Level | Primary Approval | Secondary Approval | Minimum Lead Time |\n| :--- | :--- | :--- | :--- | :--- |\n| Standard International | Low to Moderate | Department Director | VP of Department | 30 Days |\n| High-Risk Destination | High (Level 3/4) | VP of Department | Chief Risk Officer (CRO) | 45 Days |\n| Executive Travel | Any | C-Suite Sponsor | General Counsel | 21 Days |",
     "metadata": {
-      "chunk_id": "chunk_0439",
+      "chunk_id": "chunk_0442",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "3. International Pre-Travel Authorization and Risk Assessment",
       "section_header": "3.1 International Approval Matrix",
@@ -2888,10 +2907,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0440",
+    "chunk_id": "chunk_0443",
     "chunk_text": "3.2 High-Risk Destinations\n\n### 3.2 High-Risk Destinations\nThe organization utilizes the risk tiering system provided by International SOS (ISOS) and the respective government state departments. Travel to regions designated as \"High Risk\" or \"Do Not Travel\" requires a mandatory risk briefing with the Global Security Team prior to ticket issuance.",
     "metadata": {
-      "chunk_id": "chunk_0440",
+      "chunk_id": "chunk_0443",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "3. International Pre-Travel Authorization and Risk Assessment",
       "section_header": "3.2 High-Risk Destinations",
@@ -2907,10 +2926,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0441",
+    "chunk_id": "chunk_0444",
     "chunk_text": "4. International Air Travel and Class of Service\n\n## 4. International Air Travel and Class of Service\nThe organization recognizes the physical toll of long-haul international flights and adjusts class-of-service guidelines accordingly to ensure traveler productivity upon arrival.",
     "metadata": {
-      "chunk_id": "chunk_0441",
+      "chunk_id": "chunk_0444",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "4. International Air Travel and Class of Service",
       "section_header": "4. International Air Travel and Class of Service",
@@ -2926,10 +2945,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0442",
+    "chunk_id": "chunk_0445",
     "chunk_text": "4.1 Flight Duration Thresholds\n\n### 4.1 Flight Duration Thresholds\nClass of service is dictated by the continuous, scheduled flight time of a single leg, not the cumulative duration of the entire journey.\n* **Under 8 Hours:** Standard Economy Class.\n* **8 to 12 Hours:** Premium Economy is approved. If Premium Economy is unavailable on the designated route, standard Economy must be booked.\n* **Over 12 Hours:** Business Class is approved.",
     "metadata": {
-      "chunk_id": "chunk_0442",
+      "chunk_id": "chunk_0445",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "4. International Air Travel and Class of Service",
       "section_header": "4.1 Flight Duration Thresholds",
@@ -2945,10 +2964,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0443",
+    "chunk_id": "chunk_0446",
     "chunk_text": "4.2 Layovers and Stopovers\n\n### 4.2 Layovers and Stopovers\nIf an employee is mandated to fly Economy on an international itinerary where the total transit time (including layovers) exceeds 14 hours, the organization will reimburse the cost of a single-use Airport Lounge Pass (up to $75 USD) during the layover. Paid stopovers (intentionally delaying a connecting flight for personal leisure) are prohibited unless the airfare is proven to be cheaper than a direct connection.",
     "metadata": {
-      "chunk_id": "chunk_0443",
+      "chunk_id": "chunk_0446",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "4. International Air Travel and Class of Service",
       "section_header": "4.2 Layovers and Stopovers",
@@ -2964,10 +2983,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0444",
+    "chunk_id": "chunk_0447",
     "chunk_text": "5. Global Ground Transportation\n\n## 5. Global Ground Transportation\nTransportation safety varies drastically by region. Employees must prioritize secure, vetted transit options over public transit in unfamiliar or high-risk territories.",
     "metadata": {
-      "chunk_id": "chunk_0444",
+      "chunk_id": "chunk_0447",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "5. Global Ground Transportation",
       "section_header": "5. Global Ground Transportation",
@@ -2983,10 +3002,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0445",
+    "chunk_id": "chunk_0448",
     "chunk_text": "5.1 Rail Travel\n\n### 5.1 Rail Travel\nIn regions with highly developed rail infrastructure (e.g., Western Europe, Japan), high-speed rail (e.g., Eurostar, TGV, Shinkansen) is the preferred method of intercity travel. Employees may book First Class rail tickets if the journey exceeds three (3) hours or if it facilitates productive working conditions.",
     "metadata": {
-      "chunk_id": "chunk_0445",
+      "chunk_id": "chunk_0448",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "5. Global Ground Transportation",
       "section_header": "5.1 Rail Travel",
@@ -3002,10 +3021,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0446",
+    "chunk_id": "chunk_0449",
     "chunk_text": "5.2 Rental Vehicles Internationally\n\n### 5.2 Rental Vehicles Internationally\nRenting vehicles internationally is highly discouraged due to differing traffic laws, liability complexities, and licensing requirements. \n* **Prohibited Regions:** Employees are strictly prohibited from renting or driving vehicles in countries with a \"High\" or \"Extreme\" road safety risk index (e.g., India, Brazil, parts of Sub-Saharan Africa).\n* **Approved Regions:** Car rentals are permitted in Canada, the UK, the EU, and Australia, provided the employee obtains an International Driving Permit (IDP) prior to departure.",
     "metadata": {
-      "chunk_id": "chunk_0446",
+      "chunk_id": "chunk_0449",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "5. Global Ground Transportation",
       "section_header": "5.2 Rental Vehicles Internationally",
@@ -3021,10 +3040,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0447",
+    "chunk_id": "chunk_0450",
     "chunk_text": "5.3 Black Car and Chauffeur Services\n\n### 5.3 Black Car and Chauffeur Services\nIn high-risk destinations, the use of pre-vetted, secure chauffeur services is mandatory for all airport transfers and inter-office commuting. These must be booked exclusively through the Global Security Dashboard.",
     "metadata": {
-      "chunk_id": "chunk_0447",
+      "chunk_id": "chunk_0450",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "5. Global Ground Transportation",
       "section_header": "5.3 Black Car and Chauffeur Services",
@@ -3040,10 +3059,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0448",
+    "chunk_id": "chunk_0451",
     "chunk_text": "6. International Lodging and Security Standards\n\n## 6. International Lodging and Security Standards\nInternational lodging rates fluctuate significantly. The organization abandons the static numeric tiers used domestically in favor of a dynamic index.",
     "metadata": {
-      "chunk_id": "chunk_0448",
+      "chunk_id": "chunk_0451",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "6. International Lodging and Security Standards",
       "section_header": "6. International Lodging and Security Standards",
@@ -3059,10 +3078,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0449",
+    "chunk_id": "chunk_0452",
     "chunk_text": "6.1 US State Department Lodging Index\n\n### 6.1 US State Department Lodging Index\nInternational hotel maximums are benchmarked against the US State Department’s Foreign Per Diem Rates for lodging. Employees may book accommodations up to 120% of the published State Department rate for their specific international city.",
     "metadata": {
-      "chunk_id": "chunk_0449",
+      "chunk_id": "chunk_0452",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "6. International Lodging and Security Standards",
       "section_header": "6.1 US State Department Lodging Index",
@@ -3078,10 +3097,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0450",
+    "chunk_id": "chunk_0453",
     "chunk_text": "6.2 Security Requirements for Lodging\n\n### 6.2 Security Requirements for Lodging\nWhen booking hotels internationally, travelers must ensure the property meets the following minimum security criteria:\n* The hotel must have 24/7 front desk staffing and security personnel.\n* Guest room doors must have internal deadbolts and peepholes.\n* Ground-level rooms are prohibited in moderate-to-high risk destinations.\n* Alternative accommodations (Airbnb, Vrbo) are strictly prohibited for international travel due to the inability to verify local security standards and fire safety compliance.",
     "metadata": {
-      "chunk_id": "chunk_0450",
+      "chunk_id": "chunk_0453",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "6. International Lodging and Security Standards",
       "section_header": "6.2 Security Requirements for Lodging",
@@ -3097,10 +3116,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0451",
+    "chunk_id": "chunk_0454",
     "chunk_text": "7. Currency Conversion, Foreign Transaction Fees, and Per Diems\n\n## 7. Currency Conversion, Foreign Transaction Fees, and Per Diems\nReconciling international expenses requires careful documentation of currency fluctuations.",
     "metadata": {
-      "chunk_id": "chunk_0451",
+      "chunk_id": "chunk_0454",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "7. Currency Conversion, Foreign Transaction Fees, and Per Diems",
       "section_header": "7. Currency Conversion, Foreign Transaction Fees, and Per Diems",
@@ -3116,10 +3135,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0452",
+    "chunk_id": "chunk_0455",
     "chunk_text": "7.1 Foreign Currency Conversion\n\n### 7.1 Foreign Currency Conversion\nAll expenses must be submitted in the employee’s home currency. \n* If a corporate credit card is used, the expense system will automatically import the converted amount.\n* If personal funds are used (cash or personal card), the employee must convert the local currency to their home currency using the exact exchange rate on the date of the transaction. The organization mandates the use of the historical rates published on OANDA.com for audit verification.",
     "metadata": {
-      "chunk_id": "chunk_0452",
+      "chunk_id": "chunk_0455",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "7. Currency Conversion, Foreign Transaction Fees, and Per Diems",
       "section_header": "7.1 Foreign Currency Conversion",
@@ -3135,10 +3154,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0453",
+    "chunk_id": "chunk_0456",
     "chunk_text": "7.2 Foreign Transaction Fees\n\n### 7.2 Foreign Transaction Fees\nThe organization’s corporate credit card program waives foreign transaction fees. If an employee must use a personal credit card due to an emergency, the organization will reimburse up to 3% in foreign transaction fees, provided the fees are itemized on the bank statement.",
     "metadata": {
-      "chunk_id": "chunk_0453",
+      "chunk_id": "chunk_0456",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "7. Currency Conversion, Foreign Transaction Fees, and Per Diems",
       "section_header": "7.2 Foreign Transaction Fees",
@@ -3154,10 +3173,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0454",
+    "chunk_id": "chunk_0457",
     "chunk_text": "7.3 International Per Diems (M&IE)\n\n### 7.3 International Per Diems (M&IE)\nInternational Meals and Incidental Expenses (M&IE) per diems are not flat rates. They are dynamically assigned based on the destination city, utilizing the World Health Organization (WHO) or US State Department international per diem tables. \n* Receipts are not required for meals purchased under the international per diem threshold.\n* The per diem covers all gratuities, currency exchange fees, and minor local transit (e.g., a short bus ride).",
     "metadata": {
-      "chunk_id": "chunk_0454",
+      "chunk_id": "chunk_0457",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "7. Currency Conversion, Foreign Transaction Fees, and Per Diems",
       "section_header": "7.3 International Per Diems (M&IE)",
@@ -3173,10 +3192,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0455",
+    "chunk_id": "chunk_0458",
     "chunk_text": "8. Health, Vaccinations, and Medical Evacuation\n\n## 8. Health, Vaccinations, and Medical Evacuation\nCrossing international borders introduces biological and epidemiological risks.",
     "metadata": {
-      "chunk_id": "chunk_0455",
+      "chunk_id": "chunk_0458",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "8. Health, Vaccinations, and Medical Evacuation",
       "section_header": "8. Health, Vaccinations, and Medical Evacuation",
@@ -3192,10 +3211,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0456",
+    "chunk_id": "chunk_0459",
     "chunk_text": "8.1 Travel Clinics and Vaccinations\n\n### 8.1 Travel Clinics and Vaccinations\nThe organization will reimburse 100% of out-of-pocket costs for required and recommended immunizations (e.g., Yellow Fever, Typhoid, Malaria prophylaxis) mandated by the destination country or recommended by the CDC/WHO. Employees must visit a certified travel clinic at least 4 weeks prior to departure.",
     "metadata": {
-      "chunk_id": "chunk_0456",
+      "chunk_id": "chunk_0459",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "8. Health, Vaccinations, and Medical Evacuation",
       "section_header": "8.1 Travel Clinics and Vaccinations",
@@ -3211,10 +3230,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0457",
+    "chunk_id": "chunk_0460",
     "chunk_text": "8.2 Medical Evacuation\n\n### 8.2 Medical Evacuation\nThe organization retains a global contract with International SOS (ISOS). In the event of a severe medical emergency where adequate local care is unavailable, ISOS will arrange and the company will fully fund a medical evacuation (medevac) to the nearest center of medical excellence or the employee's home country.",
     "metadata": {
-      "chunk_id": "chunk_0457",
+      "chunk_id": "chunk_0460",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "8. Health, Vaccinations, and Medical Evacuation",
       "section_header": "8.2 Medical Evacuation",
@@ -3230,10 +3249,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0458",
+    "chunk_id": "chunk_0461",
     "chunk_text": "9. Data Security and Cross-Border Technology Protocols\n\n## 9. Data Security and Cross-Border Technology Protocols\nInternational travel exposes the organization to severe cyber espionage, device theft, and IP compromise. These protocols are enforced in conjunction with the *Global IT Security Policy (IT-SEC-400)*.",
     "metadata": {
-      "chunk_id": "chunk_0458",
+      "chunk_id": "chunk_0461",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "9. Data Security and Cross-Border Technology Protocols",
       "section_header": "9. Data Security and Cross-Border Technology Protocols",
@@ -3249,10 +3268,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0459",
+    "chunk_id": "chunk_0462",
     "chunk_text": "9.1 Clean Device Program (High-Risk Destinations)\n\n### 9.1 Clean Device Program (High-Risk Destinations)\nEmployees traveling to countries categorized as High Cyber-Risk (e.g., China, Russia, Iran) are strictly prohibited from bringing their standard-issue corporate laptops or personal mobile phones. \n* Employees must request \"Burner\" or \"Clean\" devices from IT Procurement 14 days prior to travel.\n* These devices contain only essential software and data necessary for the trip. \n* Upon return, clean devices must be surrendered immediately to IT for complete forensic wiping and destruction.",
     "metadata": {
-      "chunk_id": "chunk_0459",
+      "chunk_id": "chunk_0462",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "9. Data Security and Cross-Border Technology Protocols",
       "section_header": "9.1 Clean Device Program (High-Risk Destinations)",
@@ -3268,10 +3287,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0460",
+    "chunk_id": "chunk_0463",
     "chunk_text": "9.2 VPN and Network Security\n\n### 9.2 VPN and Network Security\nConnecting to public Wi-Fi networks (airports, cafes, international hotels) without engaging the corporate Virtual Private Network (VPN) is a critical security violation. If the corporate VPN is blocked by a foreign government firewall, the employee must cease all work and contact the IT Security Desk via landline.",
     "metadata": {
-      "chunk_id": "chunk_0460",
+      "chunk_id": "chunk_0463",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "9. Data Security and Cross-Border Technology Protocols",
       "section_header": "9.2 VPN and Network Security",
@@ -3287,10 +3306,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0461",
+    "chunk_id": "chunk_0464",
     "chunk_text": "9.3 Customs and Device Searches\n\n### 9.3 Customs and Device Searches\nIf a border agent or customs official demands access to a company-owned device, employees should politely state that the device belongs to their employer and contains confidential corporate data. However, employees must ultimately comply with lawful orders from border officials to avoid detention. If a device is searched or confiscated, the employee must report the incident to the Chief Information Security Officer (CISO) immediately upon reaching a secure location.",
     "metadata": {
-      "chunk_id": "chunk_0461",
+      "chunk_id": "chunk_0464",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "9. Data Security and Cross-Border Technology Protocols",
       "section_header": "9.3 Customs and Device Searches",
@@ -3306,10 +3325,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0462",
+    "chunk_id": "chunk_0465",
     "chunk_text": "10. Corporate Tax, Legal Risk, and \"Permanent Establishment\"\n\n## 10. Corporate Tax, Legal Risk, and \"Permanent Establishment\"\nExtended international business travel can trigger severe tax liabilities for both the employee and the organization.",
     "metadata": {
-      "chunk_id": "chunk_0462",
+      "chunk_id": "chunk_0465",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "10. Corporate Tax, Legal Risk, and \"Permanent Establishment\"",
       "section_header": "10. Corporate Tax, Legal Risk, and \"Permanent Establishment\"",
@@ -3325,10 +3344,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0463",
+    "chunk_id": "chunk_0466",
     "chunk_text": "10.1 The 90-Day Rule\n\n### 10.1 The 90-Day Rule\nEmployees may not spend more than ninety (90) cumulative days in a single foreign jurisdiction within a rolling 12-month period without prior authorization from the Global Corporate Tax Department.",
     "metadata": {
-      "chunk_id": "chunk_0463",
+      "chunk_id": "chunk_0466",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "10. Corporate Tax, Legal Risk, and \"Permanent Establishment\"",
       "section_header": "10.1 The 90-Day Rule",
@@ -3344,10 +3363,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0464",
+    "chunk_id": "chunk_0467",
     "chunk_text": "10.2 Permanent Establishment (PE) Risk\n\n### 10.2 Permanent Establishment (PE) Risk\nConducting sales, signing contracts, or generating direct revenue while in a foreign country can create a \"Permanent Establishment,\" subjecting the organization to foreign corporate taxes. Personnel traveling to close deals must have contract signing authority expressly limited to their home country unless structured specifically by the legal team.",
     "metadata": {
-      "chunk_id": "chunk_0464",
+      "chunk_id": "chunk_0467",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "10. Corporate Tax, Legal Risk, and \"Permanent Establishment\"",
       "section_header": "10.2 Permanent Establishment (PE) Risk",
@@ -3363,10 +3382,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0465",
+    "chunk_id": "chunk_0468",
     "chunk_text": "11. Repatriation and Emergency Extraction\n\n## 11. Repatriation and Emergency Extraction\nIn the event of a sudden geopolitical crisis (e.g., a coup d'état), natural disaster, or global pandemic, the organization will trigger its Emergency Extraction Protocol.\n* Employees must follow all directives issued via the ISOS emergency mass-notification system.\n* The company holds specialized Kidnap and Ransom (K&R) insurance for personnel operating in extreme-risk environments. Under no circumstances should an employee or their family attempt to negotiate directly with hostiles.",
     "metadata": {
-      "chunk_id": "chunk_0465",
+      "chunk_id": "chunk_0468",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "11. Repatriation and Emergency Extraction",
       "section_header": "11. Repatriation and Emergency Extraction",
@@ -3382,10 +3401,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0466",
+    "chunk_id": "chunk_0469",
     "chunk_text": "12. Exceptions and Executive Waivers\n\n## 12. Exceptions and Executive Waivers\nDue to the legal and physical risks associated with international travel, exceptions to this policy are exceptionally rare. Any deviation from the defined protocols—particularly regarding immigration compliance, data security, or high-risk destination travel—must be reviewed by a committee comprising the CFO, General Counsel, and Chief Risk Officer.",
     "metadata": {
-      "chunk_id": "chunk_0466",
+      "chunk_id": "chunk_0469",
       "h1_header": "Corporate Travel Policy: International Operations and Global Mobility",
       "h2_header": "12. Exceptions and Executive Waivers",
       "section_header": "12. Exceptions and Executive Waivers",
@@ -3401,10 +3420,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0537",
+    "chunk_id": "chunk_0540",
     "chunk_text": "Corporate Travel Policy: Standard and Client-Facing Operations\n\n# Corporate Travel Policy: Standard and Client-Facing Operations\n**Document ID:** TRV-POL-1001-V4\n**Effective Date:** January 1, 2026\n**Last Revised:** November 15, 2025\n**Policy Owner:** Global Corporate Travel and Expense Management (GCTEM)\n**Applies To:** All full-time, part-time, and contracted personnel engaging in standard domestic or client-facing travel on behalf of the organization.\n\n---",
     "metadata": {
-      "chunk_id": "chunk_0537",
+      "chunk_id": "chunk_0540",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "",
       "section_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
@@ -3420,10 +3439,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0538",
+    "chunk_id": "chunk_0541",
     "chunk_text": "Table of Contents\n\n## Table of Contents\n1. Introduction, Purpose, and Philosophy\n2. Scope and Applicability\n3. Roles, Responsibilities, and Approvals\n4. Pre-Travel Authorization Protocols\n5. Air Travel Guidelines and Restrictions\n6. Ground Transportation and Vehicle Policies\n7. Lodging and Accommodation Standards\n8. Meals, Incidentals, and Client Entertainment\n9. Telecommunications and Technology\n10. Travel Safety, Security, and Emergency Management\n11. Expense Reconciliation and Auditing Procedures\n12. Comprehensive Non-Reimbursable Expenses\n13. Exceptions and Policy Waivers\n14. Glossary of Terms\n\n---",
     "metadata": {
-      "chunk_id": "chunk_0538",
+      "chunk_id": "chunk_0541",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "Table of Contents",
       "section_header": "Table of Contents",
@@ -3439,10 +3458,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0539",
+    "chunk_id": "chunk_0542",
     "chunk_text": "1. Introduction, Purpose, and Philosophy\n\n## 1. Introduction, Purpose, and Philosophy\nThe purpose of this Standard and Client-Facing Operations Travel Policy (herein referred to as the \"Policy\") is to establish clear, consistent, and equitable guidelines for employees who travel for business purposes. The organization is committed to ensuring that employees travel safely, comfortably, and cost-effectively. This policy is designed to balance the organization's fiduciary responsibility to shareholders with the comfort, safety, and productivity of our traveling workforce. \n\nBusiness travel is defined as travel required by the organization to conduct official business, including but not limited to client meetings, site visits, inter-office collaboration, and authorized training. This document serves as the single source of truth for standard travel. For international travel, conference attendance, or long-term relocations, employees must cross-reference the respective addendums in the Global Policy Directory.",
     "metadata": {
-      "chunk_id": "chunk_0539",
+      "chunk_id": "chunk_0542",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "1. Introduction, Purpose, and Philosophy",
       "section_header": "1. Introduction, Purpose, and Philosophy",
@@ -3458,10 +3477,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0540",
+    "chunk_id": "chunk_0543",
     "chunk_text": "2. Scope and Applicability\n\n## 2. Scope and Applicability\nThis Policy applies to all personnel—including executives, full-time employees, part-time employees, interns, and authorized independent contractors—who incur travel and entertainment expenses on behalf of the organization. \n\nIf an employee's travel is funded by a third party (e.g., a client reimbursing the company for travel costs), the stricter of the two policies (the company's policy or the client's policy) shall apply. Any local, state, or national laws that contradict this policy will supersede the guidelines outlined within this document. Contractors and vendors are subject to this policy unless explicitly exempted in their Master Services Agreement (MSA) or Statement of Work (SOW).",
     "metadata": {
-      "chunk_id": "chunk_0540",
+      "chunk_id": "chunk_0543",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "2. Scope and Applicability",
       "section_header": "2. Scope and Applicability",
@@ -3477,10 +3496,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0541",
+    "chunk_id": "chunk_0544",
     "chunk_text": "3. Roles, Responsibilities, and Approvals\n\n## 3. Roles, Responsibilities, and Approvals\nThe management of corporate travel requires a coordinated effort across multiple departments.",
     "metadata": {
-      "chunk_id": "chunk_0541",
+      "chunk_id": "chunk_0544",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "3. Roles, Responsibilities, and Approvals",
       "section_header": "3. Roles, Responsibilities, and Approvals",
@@ -3496,10 +3515,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0542",
+    "chunk_id": "chunk_0545",
     "chunk_text": "3. Roles, Responsibilities, and Approvals\n\n* **The Traveler:** The individual conducting business travel is responsible for understanding and complying with this policy, exercising good judgment regarding company funds, securing all necessary approvals prior to booking, submitting expense reports accurately and within the stipulated 30-day timeframe, and maintaining possession of itemized receipts for any transaction exceeding $25.00 USD.\n* **The Approving Manager:** The direct supervisor (or designated delegate) is responsible for verifying the business purpose of the travel, ensuring the travel aligns with departmental budgets, reviewing expense reports for compliance and reasonableness, and identifying and reporting any policy violations to the Finance Department.\n* **Global Corporate Travel and Expense Management (GCTEM):** GCTEM is responsible for managing relationships with travel vendors (airlines, hotel chains, rental car agencies), updating this policy annually, conducting audits on travel expenditures, and maintaining the internal corporate booking tool (TripIt Corporate Navigator).",
     "metadata": {
-      "chunk_id": "chunk_0542",
+      "chunk_id": "chunk_0545",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "3. Roles, Responsibilities, and Approvals",
       "section_header": "3. Roles, Responsibilities, and Approvals",
@@ -3515,10 +3534,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0543",
+    "chunk_id": "chunk_0546",
     "chunk_text": "3. Roles, Responsibilities, and Approvals\n\n* **Finance and Accounts Payable:** Responsible for the timely processing of approved expense reports, reimbursement of funds to employees within two payroll cycles, and executing secondary audits on all expense reports containing line items exceeding $1,000 USD.",
     "metadata": {
-      "chunk_id": "chunk_0543",
+      "chunk_id": "chunk_0546",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "3. Roles, Responsibilities, and Approvals",
       "section_header": "3. Roles, Responsibilities, and Approvals",
@@ -3534,10 +3553,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0544",
+    "chunk_id": "chunk_0547",
     "chunk_text": "4. Pre-Travel Authorization Protocols\n\n## 4. Pre-Travel Authorization Protocols\nAll business travel must be pre-approved before any non-refundable purchases are made. The authorization workflow is dictated by the estimated total cost of the trip, not including potential client entertainment.",
     "metadata": {
-      "chunk_id": "chunk_0544",
+      "chunk_id": "chunk_0547",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "4. Pre-Travel Authorization Protocols",
       "section_header": "4. Pre-Travel Authorization Protocols",
@@ -3553,10 +3572,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0545",
+    "chunk_id": "chunk_0548",
     "chunk_text": "4.1 Approval Matrix\n\n### 4.1 Approval Matrix\n| Estimated Trip Cost | Primary Approval Required | Secondary Approval Required | Minimum Lead Time |\n| :--- | :--- | :--- | :--- |\n| $0 - $999 | Direct Line Manager | None | 7 Days |\n| $1,000 - $2,999 | Department Director | None | 14 Days |\n| $3,000 - $9,999 | Vice President | Finance Controller | 21 Days |\n| $10,000+ | C-Suite Executive | CFO | 30 Days |",
     "metadata": {
-      "chunk_id": "chunk_0545",
+      "chunk_id": "chunk_0548",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "4. Pre-Travel Authorization Protocols",
       "section_header": "4.1 Approval Matrix",
@@ -3572,10 +3591,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0546",
+    "chunk_id": "chunk_0549",
     "chunk_text": "4.2 Booking Channels\n\n### 4.2 Booking Channels\nAll travel (flights, hotels, and rental cars) MUST be booked through the TripIt Corporate Navigator portal or directly with the organization’s designated Travel Management Company (TMC) via phone. Booking through external, third-party consumer sites (e.g., Expedia, Kayak, Hotels.com) or directly with providers to accumulate personal loyalty points is strictly prohibited and constitutes a Level 1 Policy Violation.",
     "metadata": {
-      "chunk_id": "chunk_0546",
+      "chunk_id": "chunk_0549",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "4. Pre-Travel Authorization Protocols",
       "section_header": "4.2 Booking Channels",
@@ -3591,10 +3610,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0547",
+    "chunk_id": "chunk_0550",
     "chunk_text": "5. Air Travel Guidelines and Restrictions\n\n## 5. Air Travel Guidelines and Restrictions\nThe organization prioritizes cost-efficiency and traveler safety in all air travel arrangements.",
     "metadata": {
-      "chunk_id": "chunk_0547",
+      "chunk_id": "chunk_0550",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "5. Air Travel Guidelines and Restrictions",
       "section_header": "5. Air Travel Guidelines and Restrictions",
@@ -3610,10 +3629,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0548",
+    "chunk_id": "chunk_0551",
     "chunk_text": "5.1 Class of Service\n\n### 5.1 Class of Service\nThe standard class of service for all domestic business travel is basic economy or standard economy. Upgrades are generally not reimbursable.\n* **Standard Flights (Under 6 hours of continuous flight time):** Economy Class only. Employees may purchase \"Main Cabin Extra\" or preferred seating at their own expense; this is not reimbursable.\n* **Extended Flights (Over 6 hours of continuous flight time):** For domestic flights (e.g., New York to Honolulu) exceeding 6 hours of continuous airtime, employees are permitted to book Premium Economy. Business Class is strictly reserved for C-Suite executives or requires explicit written exemption from the CFO.\n* **Flight Cancellations and Credits:** If an employee cancels a flight booked with company funds, the resulting airline credit must be logged in the TMC portal and used for future corporate travel. Under no circumstances may an employee use a corporate-generated airline credit for personal travel.",
     "metadata": {
-      "chunk_id": "chunk_0548",
+      "chunk_id": "chunk_0551",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "5. Air Travel Guidelines and Restrictions",
       "section_header": "5.1 Class of Service",
@@ -3629,10 +3648,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0549",
+    "chunk_id": "chunk_0552",
     "chunk_text": "5.2 Baggage Allowances\n\n### 5.2 Baggage Allowances\nThe organization will reimburse the cost of one (1) standard checked bag per traveler. Overweight baggage fees are non-reimbursable unless the traveler is transporting company equipment (e.g., tradeshow booths, server hardware) and has documented pre-approval. For trips exceeding seven (7) consecutive days, the organization will reimburse up to two (2) standard checked bags.",
     "metadata": {
-      "chunk_id": "chunk_0549",
+      "chunk_id": "chunk_0552",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "5. Air Travel Guidelines and Restrictions",
       "section_header": "5.2 Baggage Allowances",
@@ -3648,10 +3667,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0550",
+    "chunk_id": "chunk_0553",
     "chunk_text": "5.3 Frequent Flyer Programs\n\n### 5.3 Frequent Flyer Programs\nTravelers may retain frequent flyer miles and other loyalty points accrued during business travel. However, travelers must not select a higher-priced flight or a non-preferred carrier solely to accumulate personal loyalty points.",
     "metadata": {
-      "chunk_id": "chunk_0550",
+      "chunk_id": "chunk_0553",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "5. Air Travel Guidelines and Restrictions",
       "section_header": "5.3 Frequent Flyer Programs",
@@ -3667,10 +3686,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0551",
+    "chunk_id": "chunk_0554",
     "chunk_text": "6. Ground Transportation and Vehicle Policies\n\n## 6. Ground Transportation and Vehicle Policies\nTravelers should choose the most practical, safe, and cost-effective method of ground transportation available.",
     "metadata": {
-      "chunk_id": "chunk_0551",
+      "chunk_id": "chunk_0554",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "6. Ground Transportation and Vehicle Policies",
       "section_header": "6. Ground Transportation and Vehicle Policies",
@@ -3686,10 +3705,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0552",
-    "chunk_text": "6.1 Rental Vehicles\n\n### 6.1 Rental Vehicles\nRental cars are permitted when they are the most economical means of transport, or when public transportation and rideshares are unavailable or impractical (e.g., traveling to multiple remote client sites in a single day).\n* **Authorized Vendors:** Enterprise Rent-A-Car and National Car Rental are the preferred vendors.\n* **Vehicle Class:** Travelers must book an Intermediate or Standard class vehicle. SUVs, luxury vehicles, and sports cars are prohibited unless a free upgrade is provided by the vendor.\n* **Insurance:** The organization provides comprehensive and collision insurance for vehicles rented for corporate business. Travelers MUST decline the Collision Damage Waiver (CDW) and Liability Insurance Supplement (LIS) offered by the rental agency. Purchasing additional insurance from the rental agency is non-reimbursable.\n* **Fuel:** Rental cars must be returned with a full tank of gas. Travelers should refuel the vehicle themselves prior to return. Prepaid fuel options offered by the rental agency (where you pay for a full tank upfront) are non-reimbursable.",
+    "chunk_id": "chunk_0555",
+    "chunk_text": "6.1 Rental Vehicles\n\n### 6.1 Rental Vehicles\nRental cars are permitted when they are the most economical means of transport, or when public transportation and rideshares are unavailable or impractical (e.g., traveling to multiple remote client sites in a single day).\n* **Authorized Vendors:** Enterprise Rent-A-Car and National Car Rental are the preferred vendors.\n* **Vehicle Class:** Travelers must book an Intermediate or Standard class vehicle. SUVs, luxury vehicles, and sports cars are prohibited unless a free upgrade is provided by the vendor.\n* **Insurance:** The organization provides comprehensive and collision insurance for vehicles rented for corporate business. Travelers MUST decline the Collision Damage Waiver (CDW) and Liability Insurance Supplement (LIS) offered by the rental agency. Purchasing additional insurance from the rental agency is non-reimbursable.",
     "metadata": {
-      "chunk_id": "chunk_0552",
+      "chunk_id": "chunk_0555",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "6. Ground Transportation and Vehicle Policies",
       "section_header": "6.1 Rental Vehicles",
@@ -3705,10 +3724,29 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0553",
+    "chunk_id": "chunk_0556",
+    "chunk_text": "6.1 Rental Vehicles\n\n* **Fuel:** Rental cars must be returned with a full tank of gas. Travelers should refuel the vehicle themselves prior to return. Prepaid fuel options offered by the rental agency (where you pay for a full tank upfront) are non-reimbursable.",
+    "metadata": {
+      "chunk_id": "chunk_0556",
+      "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
+      "h2_header": "6. Ground Transportation and Vehicle Policies",
+      "section_header": "6.1 Rental Vehicles",
+      "chunk_index": 1,
+      "source_type": "policy_document",
+      "document_id": "TRAVEL_POLICY",
+      "policy_category": "Travel",
+      "source_file": "travel/Travel Policy.txt",
+      "source_folder": "travel",
+      "policy_owner": "Unknown"
+    },
+    "document_id": "TRAVEL_POLICY",
+    "policy_category": "Travel"
+  },
+  {
+    "chunk_id": "chunk_0557",
     "chunk_text": "6.2 Rideshares and Taxis\n\n### 6.2 Rideshares and Taxis\nRideshare applications (Uber, Lyft) and licensed taxis are approved for transportation between the airport, hotel, and client locations. Employees should select the standard tier of service (e.g., UberX, Lyft Standard). Premium tiers (Uber Black, Lyft Lux) are prohibited unless the traveler is accompanied by a client.",
     "metadata": {
-      "chunk_id": "chunk_0553",
+      "chunk_id": "chunk_0557",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "6. Ground Transportation and Vehicle Policies",
       "section_header": "6.2 Rideshares and Taxis",
@@ -3724,10 +3762,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0554",
+    "chunk_id": "chunk_0558",
     "chunk_text": "6.3 Personal Vehicle Usage\n\n### 6.3 Personal Vehicle Usage\nEmployees may use their personal vehicles for business travel if it is more economical than renting a car or booking airfare. \n* **Mileage Reimbursement:** Mileage will be reimbursed at the standard IRS rate for the current calendar year (e.g., $0.67 per mile for 2026). This rate is designed to cover fuel, maintenance, and depreciation; therefore, employees cannot expense gas receipts when driving a personal vehicle.\n* **Commute Deduction:** The distance of the employee's standard commute to their primary office must be deducted from the total trip mileage if the travel originates from the employee's home during normal business days.",
     "metadata": {
-      "chunk_id": "chunk_0554",
+      "chunk_id": "chunk_0558",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "6. Ground Transportation and Vehicle Policies",
       "section_header": "6.3 Personal Vehicle Usage",
@@ -3743,10 +3781,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0555",
+    "chunk_id": "chunk_0559",
     "chunk_text": "7. Lodging and Accommodation Standards\n\n## 7. Lodging and Accommodation Standards\nEmployees are expected to stay in safe, comfortable, and reasonably priced hotels. The organization has negotiated corporate rates with major hotel chains (Marriott, Hilton, and Hyatt).",
     "metadata": {
-      "chunk_id": "chunk_0555",
+      "chunk_id": "chunk_0559",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "7. Lodging and Accommodation Standards",
       "section_header": "7. Lodging and Accommodation Standards",
@@ -3762,10 +3800,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0556",
+    "chunk_id": "chunk_0560",
     "chunk_text": "7.1 Nightly Rate Thresholds\n\n### 7.1 Nightly Rate Thresholds\nLodging costs must fall within the maximum nightly rate limits defined by the destination's City Tier. These thresholds exclude local occupancy taxes and resort fees.\n\n| Destination Tier | Example Locations | Maximum Nightly Rate (Excluding Taxes) |\n| :--- | :--- | :--- |\n| **Tier 1 (Premium)** | New York, San Francisco, Boston, Washington D.C., Los Angeles | $375.00 USD |\n| **Tier 2 (Major)** | Chicago, Seattle, Austin, Denver, Miami, Atlanta | $285.00 USD |\n| **Tier 3 (Standard)** | All other domestic locations not listed above | $195.00 USD |",
     "metadata": {
-      "chunk_id": "chunk_0556",
+      "chunk_id": "chunk_0560",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "7. Lodging and Accommodation Standards",
       "section_header": "7.1 Nightly Rate Thresholds",
@@ -3781,10 +3819,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0557",
+    "chunk_id": "chunk_0561",
     "chunk_text": "7.2 Alternative Accommodations\n\n### 7.2 Alternative Accommodations\nThe use of short-term rental services (e.g., Airbnb, Vrbo) is permitted only if the total nightly cost (including cleaning and service fees) falls strictly below the City Tier threshold, and the stay exceeds five (5) consecutive nights. Due to duty-of-care and safety tracking limitations, alternative accommodations require secondary approval from the Department Director.",
     "metadata": {
-      "chunk_id": "chunk_0557",
+      "chunk_id": "chunk_0561",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "7. Lodging and Accommodation Standards",
       "section_header": "7.2 Alternative Accommodations",
@@ -3800,10 +3838,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0558",
+    "chunk_id": "chunk_0562",
     "chunk_text": "7.3 Cancellations and No-Shows\n\n### 7.3 Cancellations and No-Shows\nTravelers are responsible for canceling hotel reservations in accordance with the property's cancellation policy. The organization will not reimburse \"no-show\" fees or late cancellation penalties unless the delay was caused by severe weather, canceled flights, or an acute medical emergency.",
     "metadata": {
-      "chunk_id": "chunk_0558",
+      "chunk_id": "chunk_0562",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "7. Lodging and Accommodation Standards",
       "section_header": "7.3 Cancellations and No-Shows",
@@ -3819,10 +3857,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0559",
+    "chunk_id": "chunk_0563",
     "chunk_text": "8. Meals, Incidentals, and Client Entertainment\n\n## 8. Meals, Incidentals, and Client Entertainment\nThe organization utilizes a Per Diem allowance system for standard employee meals during travel, and an actual-cost reimbursement model for client entertainment.",
     "metadata": {
-      "chunk_id": "chunk_0559",
+      "chunk_id": "chunk_0563",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "8. Meals, Incidentals, and Client Entertainment",
       "section_header": "8. Meals, Incidentals, and Client Entertainment",
@@ -3838,10 +3876,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0560",
+    "chunk_id": "chunk_0564",
     "chunk_text": "8.1 Employee Meal Per Diems\n\n### 8.1 Employee Meal Per Diems\nTravelers are allotted a daily per diem for meals and incidentals (M&IE). Receipts are not required to be submitted for expenses that fall under the per diem allowance, as the allowance is a fixed daily rate.\n* **Standard Per Diem:** $85.00 USD per full day of travel.\n* **Travel Days (First and Last Day):** Prorated to 75% of the standard per diem ($63.75 USD).\n* **Provided Meals:** If a meal is provided during the travel (e.g., a catered lunch at a conference, or a dinner paid for by a client), the traveler must deduct the corresponding amount from their daily per diem claim: Breakfast (-$20), Lunch (-$25), Dinner (-$40).\n* **Alcohol:** Alcoholic beverages consumed during standard employee travel (not involving clients) are strictly non-reimbursable and cannot be purchased using corporate credit cards.",
     "metadata": {
-      "chunk_id": "chunk_0560",
+      "chunk_id": "chunk_0564",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "8. Meals, Incidentals, and Client Entertainment",
       "section_header": "8.1 Employee Meal Per Diems",
@@ -3857,10 +3895,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0561",
+    "chunk_id": "chunk_0565",
     "chunk_text": "8.2 Client Entertainment\n\n### 8.2 Client Entertainment\nClient entertainment expenses are distinct from employee per diems and require itemized receipts, regardless of the amount. \n* **Definition:** A business meal or entertainment event involving at least one external client, prospect, or vendor, where active business discussions take place.\n* **Thresholds:** Client meals should not exceed $150.00 USD per attendee (including tax and tip).\n* **Alcohol at Client Events:** Alcohol is permitted during client entertainment, provided it is consumed responsibly and does not exceed 30% of the total event bill. \n* **Documentation:** To comply with tax regulations, expense reports for client entertainment must include the names, titles, and company affiliations of all attendees, as well as a specific description of the business discussed.",
     "metadata": {
-      "chunk_id": "chunk_0561",
+      "chunk_id": "chunk_0565",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "8. Meals, Incidentals, and Client Entertainment",
       "section_header": "8.2 Client Entertainment",
@@ -3876,10 +3914,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0562",
+    "chunk_id": "chunk_0566",
     "chunk_text": "9. Telecommunications and Technology\n\n## 9. Telecommunications and Technology\nThe organization supports connectivity during business travel to maintain productivity.",
     "metadata": {
-      "chunk_id": "chunk_0562",
+      "chunk_id": "chunk_0566",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "9. Telecommunications and Technology",
       "section_header": "9. Telecommunications and Technology",
@@ -3895,10 +3933,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0563",
+    "chunk_id": "chunk_0567",
     "chunk_text": "9.1 In-Flight Wi-Fi\n\n### 9.1 In-Flight Wi-Fi\nIn-flight Wi-Fi passes are reimbursable for flights exceeding two (2) hours, provided the traveler uses the time to conduct official business. Monthly or annual airline Wi-Fi subscriptions are prohibited.",
     "metadata": {
-      "chunk_id": "chunk_0563",
+      "chunk_id": "chunk_0567",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "9. Telecommunications and Technology",
       "section_header": "9.1 In-Flight Wi-Fi",
@@ -3914,10 +3952,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0564",
+    "chunk_id": "chunk_0568",
     "chunk_text": "9.2 Hotel Connectivity\n\n### 9.2 Hotel Connectivity\nStandard hotel Wi-Fi should be utilized whenever possible. If standard Wi-Fi is inadequate for secure or high-bandwidth tasks (e.g., large file transfers, video conferencing), the purchase of premium hotel internet is reimbursable.",
     "metadata": {
-      "chunk_id": "chunk_0564",
+      "chunk_id": "chunk_0568",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "9. Telecommunications and Technology",
       "section_header": "9.2 Hotel Connectivity",
@@ -3933,10 +3971,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0565",
+    "chunk_id": "chunk_0569",
     "chunk_text": "9.3 Lost or Damaged Equipment\n\n### 9.3 Lost or Damaged Equipment\nIf company-issued technology (laptops, mobile phones) is lost, stolen, or damaged during travel, the employee must file a report with local authorities (if stolen) and notify the IT Security Desk within 12 hours. The cost of replacement will be borne by the organization, but negligence may result in disciplinary review.",
     "metadata": {
-      "chunk_id": "chunk_0565",
+      "chunk_id": "chunk_0569",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "9. Telecommunications and Technology",
       "section_header": "9.3 Lost or Damaged Equipment",
@@ -3952,10 +3990,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0566",
+    "chunk_id": "chunk_0570",
     "chunk_text": "10. Travel Safety, Security, and Emergency Management\n\n## 10. Travel Safety, Security, and Emergency Management\nThe organization's primary concern is the safety and well-being of its employees. The Duty of Care program is managed by the GCTEM in partnership with external security providers.",
     "metadata": {
-      "chunk_id": "chunk_0566",
+      "chunk_id": "chunk_0570",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "10. Travel Safety, Security, and Emergency Management",
       "section_header": "10. Travel Safety, Security, and Emergency Management",
@@ -3971,10 +4009,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0567",
+    "chunk_id": "chunk_0571",
     "chunk_text": "10.1 Itinerary Tracking\n\n### 10.1 Itinerary Tracking\nAll travel booked through the TripIt Corporate Navigator is automatically synced with the organization's global security dashboard. Employees booking approved alternative accommodations must manually enter their itinerary details into the security dashboard at least 48 hours prior to departure.",
     "metadata": {
-      "chunk_id": "chunk_0567",
+      "chunk_id": "chunk_0571",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "10. Travel Safety, Security, and Emergency Management",
       "section_header": "10.1 Itinerary Tracking",
@@ -3990,10 +4028,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0568",
+    "chunk_id": "chunk_0572",
     "chunk_text": "10.2 Medical Emergencies\n\n### 10.2 Medical Emergencies\nIf an employee experiences a medical emergency while traveling, they should immediately seek local medical attention. The organization provides supplemental travel medical insurance that covers emergency room visits, urgent care, and medical evacuation if necessary. Routine medical care or pharmacy purchases (e.g., aspirin, cold medicine) are non-reimbursable incidentals.",
     "metadata": {
-      "chunk_id": "chunk_0568",
+      "chunk_id": "chunk_0572",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "10. Travel Safety, Security, and Emergency Management",
       "section_header": "10.2 Medical Emergencies",
@@ -4009,10 +4047,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0569",
+    "chunk_id": "chunk_0573",
     "chunk_text": "11. Expense Reconciliation and Auditing Procedures\n\n## 11. Expense Reconciliation and Auditing Procedures\nTimely and accurate expense reporting is mandatory for compliance and cash flow management.",
     "metadata": {
-      "chunk_id": "chunk_0569",
+      "chunk_id": "chunk_0573",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "11. Expense Reconciliation and Auditing Procedures",
       "section_header": "11. Expense Reconciliation and Auditing Procedures",
@@ -4028,10 +4066,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0570",
+    "chunk_id": "chunk_0574",
     "chunk_text": "11.1 Submission Timeline\n\n### 11.1 Submission Timeline\nAll expense reports must be submitted via the Workday Expense module within thirty (30) calendar days of the trip's conclusion. Reports submitted after 30 days will require written justification and approval from the VP of Finance. Reports submitted after sixty (60) days will be permanently denied, and the employee will be personally responsible for the charges.",
     "metadata": {
-      "chunk_id": "chunk_0570",
+      "chunk_id": "chunk_0574",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "11. Expense Reconciliation and Auditing Procedures",
       "section_header": "11.1 Submission Timeline",
@@ -4047,10 +4085,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0571",
+    "chunk_id": "chunk_0575",
     "chunk_text": "11.2 Receipt Requirements\n\n### 11.2 Receipt Requirements\nItemized receipts are required for all individual expenses exceeding $25.00 USD, with the exception of per diem claims. Credit card summary slips that do not show an itemized breakdown of goods purchased are invalid and will be rejected by Accounts Payable.",
     "metadata": {
-      "chunk_id": "chunk_0571",
+      "chunk_id": "chunk_0575",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "11. Expense Reconciliation and Auditing Procedures",
       "section_header": "11.2 Receipt Requirements",
@@ -4066,10 +4104,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0572",
+    "chunk_id": "chunk_0576",
     "chunk_text": "11.3 Audits\n\n### 11.3 Audits\nThe Finance Department conducts randomized audits on 15% of all submitted expense reports, utilizing AI-driven anomaly detection software. The software checks for duplicate submissions, non-compliant dates, and prohibited vendor categories.",
     "metadata": {
-      "chunk_id": "chunk_0572",
+      "chunk_id": "chunk_0576",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "11. Expense Reconciliation and Auditing Procedures",
       "section_header": "11.3 Audits",
@@ -4085,10 +4123,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0573",
+    "chunk_id": "chunk_0577",
     "chunk_text": "12. Comprehensive Non-Reimbursable Expenses\n\n## 12. Comprehensive Non-Reimbursable Expenses\nThe following items are explicitly categorized as non-reimbursable personal expenses. This list is not exhaustive but represents common infractions:\n* Airline club or airport lounge memberships (unless specifically included in a C-Suite benefits package).\n* Childcare, babysitting, or pet-boarding fees incurred while the employee is traveling.\n* Traffic citations, speeding tickets, or parking fines.\n* Personal grooming services (haircuts, manicures, shoe shines).\n* In-room hotel entertainment (pay-per-view movies, minibar restocks).\n* Clothing or luggage purchases, including formal wear rentals for events.\n* Gym fees or health club access passes.\n* Dependent travel costs (expenses related to bringing a spouse, partner, or child on a business trip).",
     "metadata": {
-      "chunk_id": "chunk_0573",
+      "chunk_id": "chunk_0577",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "12. Comprehensive Non-Reimbursable Expenses",
       "section_header": "12. Comprehensive Non-Reimbursable Expenses",
@@ -4104,10 +4142,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0574",
+    "chunk_id": "chunk_0578",
     "chunk_text": "13. Exceptions and Policy Waivers\n\n## 13. Exceptions and Policy Waivers\nThe organization recognizes that extraordinary circumstances may arise that require deviation from this policy. \n\nAny exception to this policy must be documented and approved in writing (via email or Workday memo) by a Vice President or higher prior to the expense being incurred. After-the-fact exception requests will be categorically denied. If an employee is traveling under emergency conditions (e.g., responding to a critical client outage), verbal approval from a Director may be accepted, provided it is followed by written documentation within 24 hours.",
     "metadata": {
-      "chunk_id": "chunk_0574",
+      "chunk_id": "chunk_0578",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "13. Exceptions and Policy Waivers",
       "section_header": "13. Exceptions and Policy Waivers",
@@ -4123,10 +4161,10 @@
     "policy_category": "Travel"
   },
   {
-    "chunk_id": "chunk_0575",
+    "chunk_id": "chunk_0579",
     "chunk_text": "14. Glossary of Terms\n\n## 14. Glossary of Terms\n* **CDW (Collision Damage Waiver):** Optional insurance offered by car rental companies that waives the renter's liability for damage to the vehicle. This must be declined by employees.\n* **GCTEM:** Global Corporate Travel and Expense Management team.\n* **Incidentals:** Minor expenditures associated with travel, such as baggage handler tips, bellhop gratuities, and quick snacks, which are intended to be covered by the daily per diem.\n* **Per Diem:** A specific amount of money given to an employee per day to cover living expenses (meals and incidentals) when traveling for work.\n* **TMC (Travel Management Company):** The external agency contracted by the organization to facilitate and support corporate travel bookings.",
     "metadata": {
-      "chunk_id": "chunk_0575",
+      "chunk_id": "chunk_0579",
       "h1_header": "Corporate Travel Policy: Standard and Client-Facing Operations",
       "h2_header": "14. Glossary of Terms",
       "section_header": "14. Glossary of Terms",
