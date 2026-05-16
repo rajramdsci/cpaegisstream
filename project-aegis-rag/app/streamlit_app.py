@@ -21,7 +21,7 @@ st.title("🛡️ Project Aegis")
 st.markdown("**Advanced Corporate Policy RAG System**")
 
 # ====================== SIDEBAR ======================
-with st.expander("⚙️ Ingestion Controls", expanded=True):
+with st.sidebar.expander("⚙️ Ingestion Controls", expanded=True):
     #st.header("⚙️ Ingestion Controls")
     
     # Chunking Controls
