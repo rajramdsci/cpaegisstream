@@ -52,7 +52,9 @@ class PolicyMetadataExtractor:
                 #"effective_date": self._extract_date(chunk["chunk_text"]),  # Optional regex/LLM
                 "policy_owner": "Unknown",  # Can be improved with LLM later
                 #"last_updated": datetime.now().isoformat(),
-                "chunk_id": chunk.get("chunk_id")
+                "chunk_id": chunk.get("chunk_id"),
+                "chunk_text": chunk.get("chunk_text")
+
             }
 
             chunk["metadata"] = rich_metadata
