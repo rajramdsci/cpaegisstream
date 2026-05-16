@@ -15,6 +15,7 @@ class Settings(BaseSettings):
     # === API Keys ===
     OPENAI_API_KEY: str | None = None
     PINECONE_API_KEY: str = ""          # ← This is what embedder.py imports
+    COHERE_API_KEY: str = ""
 
     # === Pinecone Settings ===
     PINECONE_INDEX_NAME: str = "project-aegis-policies"

@@ -33,7 +33,7 @@ class PolicyMetadataExtractor:
         """
         Add rich metadata to every chunk.
         """
-        category = self._infer_category_from_path(file_path)
+        category = self._infer_category_from_path(file_path).lower()
         doc_id = self._extract_document_id(file_path)
         source_file = str(file_path.relative_to("data/raw"))
 

@@ -1,155 +1,207 @@
 # src/retrieval/pipeline.py
 
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple
+from langchain_openai import ChatOpenAI
+from langchain_core.messages import HumanMessage, AIMessage
+from langchain_core.prompts import ChatPromptTemplate
+
 from src.retrieval.query_transformer import QueryTransformer
 from src.retrieval.retriever import PolicyRetriever
+from src.retrieval.reranker import Reranker
 
 
 class RetrievalPipeline:
     """
-    Full Retrieval Pipeline for Project Aegis (Part 2)
-    
-    Supports flexible combinations:
-    - With / Without Multi-Query Expansion (MQE)
-    - With / Without Category-based Pre-filtering
+    Optimized Project Aegis Pipeline with Early Intent Detection
     """
 
     def __init__(self):
         self.query_transformer = QueryTransformer()
         self.retriever = PolicyRetriever()
-
-    # ========================== SECTION 1: MULTI-QUERY EXPANSION + RETRIEVAL ==========================
-    def _retrieve_with_mqe(
-        self, 
-        question: str, 
-        top_k: int = 15,
-        policy_category: Optional[str] = None
-    ) -> List[Dict]:
-        """
-        Section 1: Multi-Query Expansion → Send each query to Retriever
-        """
-        print(f"🔀 [MQE] Expanding query: '{question}'")
+        self.reranker = Reranker(k=60)
         
-        expansion_result = self.query_transformer.expand_query(question, num_queries=4)
-        expanded_queries = expansion_result["expanded_queries"]
+        self.llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.3)
+        self.chat_history: List[Dict] = []
+
+    # ====================== INTENT DETECTION ======================
+    def _is_conversational_query(self, question: str) -> bool:
+        """Quick heuristic + lightweight LLM check for meta/conversational questions"""
+        q_lower = question.lower().strip()
         
-        all_results = []
-        seen_ids = set()  # Deduplication
+        meta_phrases = [
+            "what was my first", "what did i ask", "previous question", 
+            "earlier question", "last question", "conversation history",
+            "summarize our chat", "what have we discussed", "recall",
+            "what was the first", "my first question"
+        ]
+        
+        if any(phrase in q_lower for phrase in meta_phrases):
+            return True
+        
+        # Optional: Light LLM intent classification (uncomment if needed)
+        # return self._llm_intent_check(question)
+        return False
 
-        for q in expanded_queries:
-            print(f"   → Searching with: '{q}'")
-            
-            if policy_category:
-                results = self.retriever.retrieve_with_category_filter(
-                    query=q, 
-                    policy_category=policy_category.lower(),
-                    top_k=top_k
-                )
-            else:
-                results = self.retriever.retrieve(query=q, top_k=top_k)
-            
-            # Deduplicate by chunk_id
-            for res in results:
-                if res["chunk_id"] not in seen_ids:
-                    seen_ids.add(res["chunk_id"])
-                    all_results.append(res)
+    def _llm_intent_check(self, question: str) -> bool:
+        """Fallback LLM-based intent detection"""
+        prompt = f"""Classify this user message as either:
+A) Policy Question (needs retrieval)
+B) Conversational/Meta Question (about chat history)
 
-        print(f"✅ MQE completed: {len(expanded_queries)} queries → {len(all_results)} unique chunks")
-        return all_results
+Message: "{question}"
 
-    # ========================== SECTION 2: SINGLE QUERY RETRIEVAL ==========================
-    def _retrieve_single(
-        self, 
-        question: str, 
-        top_k: int = 15,
-        policy_category: Optional[str] = None
-    ) -> List[Dict]:
-        """
-        Simple single query retrieval (with optional category filter)
-        """
+Answer with only A or B."""
+        
+        try:
+            resp = self.llm.invoke(prompt)
+            return resp.content.strip().upper().startswith("B")
+        except:
+            return False
+
+    # ====================== MEMORY-BASED ANSWER ======================
+    def _answer_from_memory(self, question: str) -> str:
+        """Answer meta questions directly from chat history"""
+        if not self.chat_history:
+            return "This is our first conversation. You haven't asked any questions yet."
+
+        prompt = ChatPromptTemplate.from_messages([
+            ("system", "You are Aegis, a helpful assistant. Answer the user's question about our conversation history."),
+            *self._get_full_history_messages(),
+            ("human", question)
+        ])
+
+        messages = prompt.format_messages()
+        response = self.llm.invoke(messages)
+        return response.content.strip()
+
+    def _get_full_history_messages(self):
+        messages = []
+        for entry in self.chat_history:
+            messages.append(HumanMessage(content=entry["question"]))
+            messages.append(AIMessage(content=entry["answer"]))
+        return messages
+
+    # ====================== CORE RETRIEVAL (Policy Questions) ======================
+    def _base_retrieve(self, query: str, policy_category: Optional[str] = None, top_k: int = 25) -> List[Dict]:
         if policy_category:
-            return self.retriever.retrieve_with_category_filter(
-                query=question, 
-                policy_category=policy_category.lower(),
-                top_k=top_k
-            )
-        else:
-            return self.retriever.retrieve(query=question, top_k=top_k)
+            return self.retriever.retrieve_with_category_filter(query, policy_category.lower().strip(), top_k)
+        return self.retriever.retrieve(query, top_k)
 
-    # ========================== MAIN PUBLIC METHOD ==========================
-    def retrieve(
+    def _mqe_retrieve(self, question: str, policy_category=None, top_k=25) -> List[Dict]:
+        expansion = self.query_transformer.expand_query(question, num_queries=4)
+        all_results = [self._base_retrieve(q, policy_category, top_k) for q in expansion["expanded_queries"]]
+        return self.reranker.reciprocal_rank_fusion(all_results, top_n=30)
+
+    def _hyde_retrieve(self, question: str, policy_category=None, top_k=25) -> List[Dict]:
+        hyde_doc = self.query_transformer.generate_hyde_document(question)
+        results = self._base_retrieve(hyde_doc, policy_category, top_k)
+        results.sort(key=lambda x: x.get("score", 0), reverse=True)
+        return results
+
+    # ====================== FINAL ANSWER GENERATION ======================
+    def _generate_policy_answer(self, question: str, context_chunks: List[Dict]) -> str:
+        if not context_chunks:
+            return "I don't have sufficient information in the current policies to answer this accurately."
+
+        context_text = "\n\n".join([
+            f"Source: {chunk['metadata'].get('h1_header', 'Policy')} "
+            f"({chunk['metadata'].get('policy_category', 'General')})\n"
+            f"{chunk['chunk_text']}"
+            for chunk in context_chunks
+        ])
+
+        prompt = ChatPromptTemplate.from_messages([
+            ("system", """You are **Aegis**, an expert corporate policy assistant.
+Answer accurately using ONLY the provided policy context.
+Cite relevant sections when possible."""),
+            ("system", f"Policy Context:\n{context_text}"),
+            *self._get_full_history_messages(),
+            ("human", question)
+        ])
+
+        messages = prompt.format_messages()
+        response = self.llm.invoke(messages)
+        answer = response.content.strip()
+
+        self._update_memory(question, answer)
+        return answer
+
+    def _update_memory(self, question: str, answer: str):
+        self.chat_history.append({"question": question, "answer": answer})
+        if len(self.chat_history) > 10:
+            self.chat_history.pop(0)
+
+    # ====================== MAIN OPTIMIZED PIPELINE ======================
+    def retrieve_and_answer(
         self,
         question: str,
         use_mqe: bool = True,
+        use_hyde: bool = True,
+        use_reranker: bool = True,
         policy_category: Optional[str] = None,
-        top_k: int = 15,
-        final_top_k: int = 10
+        top_k: int = 25,
+        final_top_n: int = 6
     ) -> Dict:
-        """
-        Main retrieval method with flexible options.
-        
-        Parameters:
-            use_mqe: True = Use Multi-Query Expansion
-            policy_category: Filter by category (security, training, travel, work_policies)
-            top_k: Chunks to retrieve per query
-            final_top_k: Final number of unique results to return
-        """
-        if use_mqe:
-            results = self._retrieve_with_mqe(
-                question=question,
-                top_k=top_k,
-                policy_category=policy_category
-            )
-        else:
-            results = self._retrieve_single(
-                question=question,
-                top_k=top_k,
-                policy_category=policy_category
-            )
+        """Smart Optimized Pipeline with Early Intent Detection"""
 
-        # Sort by score and limit final results
-        results.sort(key=lambda x: x["score"], reverse=True)
-        final_results = results[:final_top_k]
+        print(f"\n🔍 User: {question}")
+
+        # === EARLY CHECK: Conversational / Meta Question ===
+        if self._is_conversational_query(question):
+            print("💬 Detected conversational/meta question → Answering from memory")
+            answer = self._answer_from_memory(question)
+            self._update_memory(question, answer)
+            return {
+                "question": question,
+                "method": "Memory Only (Conversational)",
+                "answer": answer,
+                "final_results": [],
+                "from_memory": True
+            }
+
+        # === POLICY QUESTION → Full Retrieval ===
+        print("📄 Policy-related question → Running retrieval pipeline")
+
+        if use_mqe and use_hyde:
+            cand1 = self._mqe_retrieve(question, policy_category, top_k)
+            cand2 = self._hyde_retrieve(question, policy_category, top_k)
+            candidates = cand1 + cand2
+            method = "MQE + HyDE"
+        elif use_mqe:
+            candidates = self._mqe_retrieve(question, policy_category, top_k)
+            method = "MQE + RRF"
+        elif use_hyde:
+            candidates = self._hyde_retrieve(question, policy_category, top_k)
+            method = "HyDE"
+        else:
+            candidates = self._base_retrieve(question, policy_category, top_k)
+            method = "Single Query"
+
+        if use_reranker and candidates:
+            final_chunks = self.reranker.cross_encoder_rerank(question, candidates, top_n=final_top_n)
+        else:
+            final_chunks = candidates[:final_top_n]
+
+        answer = self._generate_policy_answer(question, final_chunks)
 
         return {
             "question": question,
-            "use_mqe": use_mqe,
-            "policy_category": policy_category,
-            "total_retrieved": len(results),
-            "final_results": final_results,
-            "num_expanded_queries": len(self.query_transformer.expand_query(question, 1)["expanded_queries"]) 
-                                  if use_mqe else 1
+            "method": method,
+            "answer": answer,
+            "final_results": final_chunks,
+            "from_memory": False
         }
 
 
-# ========================== TEST / DEMO ==========================
+# ========================== TEST CONVERSATION ==========================
 if __name__ == "__main__":
     pipeline = RetrievalPipeline()
     
-    #test_question = "What is the allowance for taxi in international travel?"
-    test_question = "Can I expense a taxi from the airport?" 
+    print("=== Conversation Test ===")
+    result = pipeline.retrieve_and_answer("What are the tiers in Annual Stipend ?")
+    print("\nFinal Answer:", result["answer"])
+    pipeline.retrieve_and_answer("Tell me about international travel per diem")
+    print("\nFinal Answer:", result["answer"])
+    result = pipeline.retrieve_and_answer("What was my first question?")
     
-    print("="*80)
-    print("TEST 1: With MQE + Category Filter")
-    print("="*80)
-    result1 = pipeline.retrieve(
-        question=test_question,
-        use_mqe=True,
-        policy_category="travel",
-        top_k=10,
-        final_top_k=8
-    )
-    
-    print(f"\nRetrieved {result1['total_retrieved']} chunks → showing top {len(result1['final_results'])}")
-    
-    print("\n" + "="*80)
-    print("TEST 2: Without MQE (Single Query)")
-    print("="*80)
-    result2 = pipeline.retrieve(
-        question=test_question,
-        use_mqe=False,
-        policy_category=None,   # No category filter
-        top_k=15
-    )
-    
-    print(f"Retrieved {len(result2['final_results'])} chunks")
+    print("\nFinal Answer:", result["answer"])
